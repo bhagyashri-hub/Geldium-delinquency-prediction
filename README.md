@@ -4,6 +4,7 @@
 This repository contains my complete end-to-end project for predicting customer delinquency using machine learning and designing an AI-powered collections system.
 This project was completed as part of the Geldium GenAI Case Challenge.
 
+
 📁 Project Overview
 
 The goal of the project is to build a predictive model that identifies customers likely to become delinquent (miss payments).
@@ -21,6 +22,7 @@ Responsible AI recommendations
 
 A high-level autonomous AI collections system design
 
+
 🧠 Objectives
 
 Predict customer delinquency using ML algorithms
@@ -33,6 +35,7 @@ Ensure fairness and responsible AI practices
 
 Design a scalable AI-powered debt-collection system
 
+
 📊 Tech Stack
 
 Python
@@ -44,6 +47,7 @@ Matplotlib, Seaborn
 Scikit-learn
 
 Jupyter Notebook
+
 
 🔍 Dataset
 
@@ -59,6 +63,7 @@ Payment behaviour
 
 Monthly transaction features
 
+
 📈 Model Performance
 
 Final Accuracy: 0.99
@@ -72,6 +77,7 @@ Confusion Matrix
 ROC Curve
 
 
+
 📝 Task Summaries
 ✔ Task 1 – EDA & Risk Insights
 
@@ -80,6 +86,7 @@ Statistical analysis
 Histograms & visual EDA
 
 Identification of high-risk features
+
 
 ✔ Task 2 – Predictive Model Framework
 
@@ -91,6 +98,7 @@ Confusion Matrix + ROC curve
 
 Ethical considerations
 
+
 ✔ Task 3 – Business Storytelling Report
 
 Key risk factors
@@ -98,6 +106,7 @@ Key risk factors
 Actionable intervention strategy
 
 Responsible AI recommendations
+
 
 ✔ Task 4 – AI Collections System (PPT)
 
@@ -113,6 +122,7 @@ Business impact
 
 Optional: System architecture overview
 
+
 🧩 AI-Powered Collections System (High-Level Design)
 
 Collects customer risk data
@@ -127,6 +137,7 @@ Ensures fairness & transparency
 
 Allows human review for sensitive cases
 
+
 📌 Key Features
 
 End-to-end ML pipeline
@@ -138,6 +149,7 @@ Business + technical integration
 Responsible & explainable AI design
 
 Industry-relevant problem-solving
+
 
 🚀 Future Enhancements
 
